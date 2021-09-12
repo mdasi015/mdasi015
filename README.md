@@ -1,4 +1,4 @@
-## Olá, Mundo! Eu sou a Mariana! 
+## Olá, Mundo!
 
 <div>
   <a href="https://github.com/mdasi015">
