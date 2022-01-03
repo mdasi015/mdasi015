@@ -1,7 +1,6 @@
 ## Hello, Welcome!
 
 - 👩🏽‍🎓 I'm a Front-end development student, the 4th semester of Information Technology Management.
-- 💻 Intern at IBM as Angular developer.
 
 <div>
   <a href="https://github.com/mdasi015">
